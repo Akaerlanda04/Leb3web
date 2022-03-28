@@ -51,6 +51,39 @@
  berikut tampilan pada browser
  <br>
  ![hasilnya](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss10.png)
+ <br>
+ <b>Menggambungkan Sel Data</b><br>
+ Kemudian selanjutnya tambahkan kode atribut rowspan dan colspan untuk 
+menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal), berikut code nya:
+<br>
+![code Atribut rowspan](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss11.png)
+<br>
+berikut tampilan pada browser.
+<br>
+![hasilnya](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss12.png)
+<b>3.Membuat Form</b><br>
+berikut tampilan code untuk membuat form
+<br>
+![code html](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss13.png)
+<br>
+Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+<br>
+![code form](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss14.png)
+<br>
+berikut tampilan pada browser
+<br>
+![hasilnya](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss15.png)
+<br>
+<b>Menabahkan Style pada Form</b><br>
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut:
+<br>
+![code css](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss16.png)
+<br>
+berikut tampilan bpada browser
+<br>
+![hasilnya](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss17.png)
+
+
  
  
  
