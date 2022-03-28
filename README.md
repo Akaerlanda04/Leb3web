@@ -25,11 +25,11 @@
  Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered
  list pada section unordered-list, seperti berikut:
  <br>
- ![code Unorderd List](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss4.png)
+ ![code Unorderd List]()
  <br>
  berikut tampilan pada browser
  <br>
- ![hasilnya](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss5.png)
+ ![hasilnya]()
  <br>
  <b>Description List</b><br>
  Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
@@ -38,7 +38,7 @@
  <br>
  berikut tampilan pada browser
  <br>
- ![hasilnya](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss7.png)
+ ![hasilnya]()
  <b>2.Membuat Tabel</b><br>
  berikut tampilan code untuk membuat tabel
  <br>
