@@ -7,13 +7,14 @@
 <br>Matkul     : Pemrograman Web
 <br>
  
- <b>1.Membuat list, tabel dan form .</b><br>
+ <b>Membuat list, tabel dan form .</b><br>
+ <b>1.Membuat list</b><br>
  Untuk langkah awal kita membuat dokumen HTML terlebih dahulu berikut tampilannya 
  <br>
 ![Membuat dokumen HTML](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss1.png)
  <br>
  <b>order list</b>
- Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
+ <br>Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
  <br>
  ![Membuat order list](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss2.png)
  <br>
