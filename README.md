@@ -19,7 +19,7 @@
  ![code order list](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss2.png)
  <br>
  berikut tampilannya
- ![tampilan pada browser](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss3.png)
+ ![tampilan pada browser](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss3)
  <br>
  <b>Unorderd List</b><br>
  Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered
