@@ -16,20 +16,20 @@
  <b>order list</b>
  <br>Kemudian tambahkan kode untuk membuat Ordered List seperti berikut:
  <br>
- ![code order list]()
+ ![code order list](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss2.png)
  <br>
  berikut tampilannya
- ![tampilan pada browser]()
+ ![tampilan pada browser](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss3.png)
  <br>
  <b>Unorderd List</b><br>
  Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered
  list pada section unordered-list, seperti berikut:
  <br>
- ![code Unorderd List]()
+ ![code Unorderd List](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss4.png)
  <br>
  berikut tampilan pada browser
  <br>
- ![hasilnya]()
+ ![hasilnya](https://github.com/Akaerlanda04/Leb3web/blob/main/pitcure/ss5.png)
  <br>
  <b>Description List</b><br>
  Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
